@@ -111,6 +111,16 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Jack",
+      "species": "Lemur",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "loving",
+        "goofy"
+      ],
+      "id": "12"
     }
   ]
 }
