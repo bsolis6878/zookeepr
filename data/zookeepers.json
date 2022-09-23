@@ -59,6 +59,12 @@
       "age": 64,
       "favoriteAnimal": "Rabbit",
       "id": "9"
+    },
+    {
+      "name": "Jack Smith",
+      "age": 24,
+      "favoriteAnimal": "Elephant",
+      "id": "10"
     }
   ]
 }
